@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shruti Mohanty
 - 👀 I’m interested in Machine Learning, and Data Science. 
-- 🌱 I’m currently attending grad school at UCLA.
+- 🌱 Grad school at UCLA - MS in Electrical and Computer Engineering.
 - 📫 How to reach me - Shoot me an email at shrutimohanty@ucla.edu. 
 
 <!---
