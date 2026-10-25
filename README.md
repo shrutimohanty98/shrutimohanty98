@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Shruti Mohanty
-- 👀 I’m interested in Machine Learning, and Data Science. 
-- 🌱 Grad school at UCLA - MS in Electrical and Computer Engineering.
+- 👋 Hi, I’m Shruti, Software Engineer for the Commerce Data Platform Team @ Microsoft
+- 🌱 UCLA - MS in Electrical and Computer Engineering.
 - 📫 How to reach me - Shoot me an email at shrutimohanty@ucla.edu. 
 
 <!---
